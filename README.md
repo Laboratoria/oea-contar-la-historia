@@ -1,10 +1,10 @@
-# Segunda etapa : Cómo contar la historia
+# Second phase : Initiatives Acceleration
 
-En esta fase del programa aprenderás a construir experimentos dando los primeros pasos para transformar tu iniciativa en un producto digital bajo un
-marco de trabajo ágil
+In this phase of the program you will learn to build experiments taking the first steps to transform your initiative into a digital product under a
+agile framework
 
 ## Syllabus
 
-### Unidad 01: [Antes de empezar](00-antes-de-empezar)
+### Unidad 01: [Before starting](00-antes-de-empezar)
 
-### Unidad 02: [Contando la historia](01-contar-historia)
+### Unidad 02: [Telling the story](01-tell-the-story)
